@@ -13,7 +13,6 @@ The model works in the fllowing steps:
 3) Replacing the empty cells in those features with empty strings.
 4) Combinig the features and then converting the features into feature vectors.
 5) Finding the similarity score of all the movies.
---------------------------------------------------------------------------
 
 --------------------GETTING THE MOVIE NAME AND PREDICTION-----------------
 6) Accepting the movie name.
@@ -22,4 +21,3 @@ The model works in the fllowing steps:
 9) Choosing the movie name at index [0] as this movie is the closest match to the name entered.
 10) Finding the index of the movie found in step (9) and enumerating all the similarity scores present at that index and making a liist of them.
 11) Sorting this list in descending order and then printing the first 10-15 entries.
---------------------------------------------------------------------------
